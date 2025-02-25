@@ -306,7 +306,7 @@ export default function IntroSection() {
                               {/* Right Section: Animated Divs */}
                               <div
                                 ref={containerRef}
-                                className="relative w-full md:w-2/3 h-[1000] flex justify-center items-center gap-4 overflow-hidden"
+                                className="relative w-full md:w-2/3 h-[1200] flex justify-center items-center gap-4 overflow-hidden"
                               >
                                 {/* Column 1 (Moves Up on Scroll) */}
                                 <motion.div className="flex flex-col gap-2" style={{ y: firstColumnY }}>
