@@ -294,7 +294,7 @@ export default function IntroSection() {
 
 
                       <section>
-                                            <div className="w-full h-[800] bg-black p-10 flex flex-col md:flex-row items-center justify-center gap-10">
+                                            <div className="w-full h-[1200] bg-black p-10 flex flex-col md:flex-row items-center justify-center gap-10">
                               {/* Left Section: Heading and Text */}
                               <div className="text-white w-full md:w-1/3 flex flex-col gap-4">
                                 <h1 className="text-4xl font-bold">Heading Title</h1>
